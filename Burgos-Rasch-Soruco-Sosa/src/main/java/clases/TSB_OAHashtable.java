@@ -5,6 +5,7 @@ import java.util.Collection;
 import java.util.Map;
 import java.util.Set;
 // pone estado de casilla
+//asdasd
 
 public class TSB_OAHashtable<K,V> implements Map<K,V>, Cloneable, Serializable
 {
@@ -15,6 +16,7 @@ public class TSB_OAHashtable<K,V> implements Map<K,V>, Cloneable, Serializable
 
 
     //************************ Atributos privados (estructurales).
+
 
     private Object[] items;
 
